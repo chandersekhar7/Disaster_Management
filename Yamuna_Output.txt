@@ -1,0 +1,180 @@
+Shortest path from 2 to 1: [2, 1]
+Total distance: 198.25
+Total population sum: 0.00
+
+Shortest path from 2 to 2: [2]
+Total distance: 0.00
+Total population sum: 0.00
+
+Shortest path from 2 to 3: [2, 26, 3]
+Total distance: 276.14
+Total population sum: 0.40
+
+Shortest path from 2 to 4: [2, 4]
+Total distance: 269.70
+Total population sum: 0.10
+
+Shortest path from 2 to 5: [2, 26, 5]
+Total distance: 325.36
+Total population sum: 0.50
+
+Shortest path from 2 to 6: [2, 26, 6]
+Total distance: 519.53
+Total population sum: 0.20
+
+Shortest path from 2 to 7: [2, 26, 6, 25, 27, 7]
+Total distance: 1294.67
+Total population sum: 0.90
+
+Shortest path from 2 to 8: [2, 26, 6, 25, 27, 38, 8]
+Total distance: 1415.86
+Total population sum: 0.40
+
+Shortest path from 2 to 9: [2, 26, 6, 25, 27, 38, 45, 9]
+Total distance: 1563.94
+Total population sum: 0.90
+
+Shortest path from 2 to 10: [2, 26, 6, 25, 27, 38, 45, 10]
+Total distance: 1562.68
+Total population sum: 0.30
+
+Shortest path from 2 to 11: [2, 26, 6, 25, 27, 38, 45, 37, 36, 11]
+Total distance: 2045.36
+Total population sum: 0.30
+
+Shortest path from 2 to 12: [2, 26, 6, 25, 27, 38, 45, 37, 36, 35, 12]
+Total distance: 2394.53
+Total population sum: 2.30
+
+Shortest path from 2 to 13: [2, 26, 6, 25, 28, 29, 42, 40, 32, 34, 13]
+Total distance: 2689.58
+Total population sum: 3.90
+
+Shortest path from 2 to 14: [2, 26, 6, 25, 28, 29, 42, 40, 32, 34, 14]
+Total distance: 2561.39
+Total population sum: 3.90
+
+Shortest path from 2 to 15: [2, 26, 6, 25, 28, 29, 42, 40, 39, 33, 15]
+Total distance: 2095.39
+Total population sum: 2.30
+
+Shortest path from 2 to 16: [2, 26, 6, 25, 28, 29, 43, 30, 16]
+Total distance: 1915.27
+Total population sum: 2.30
+
+Shortest path from 2 to 17: [2, 26, 6, 25, 28, 29, 42, 40, 39, 33, 17]
+Total distance: 2136.79
+Total population sum: 2.50
+
+Shortest path from 2 to 18: [2, 26, 6, 25, 28, 29, 42, 40, 39, 18]
+Total distance: 1956.22
+Total population sum: 1.30
+
+Shortest path from 2 to 19: [2, 26, 6, 25, 28, 29, 42, 40, 41, 19]
+Total distance: 1720.87
+Total population sum: 2.30
+
+Shortest path from 2 to 20: [2, 26, 6, 25, 28, 29, 42, 40, 41, 20]
+Total distance: 1740.36
+Total population sum: 2.30
+
+Shortest path from 2 to 21: [2, 26, 6, 25, 44, 21]
+Total distance: 1255.36
+Total population sum: 0.30
+
+Shortest path from 2 to 22: [2, 26, 6, 25, 44, 22]
+Total distance: 1360.85
+Total population sum: 0.30
+
+Shortest path from 2 to 23: [2, 26, 6, 25, 28, 29, 23]
+Total distance: 1299.11
+Total population sum: 0.30
+
+Shortest path from 2 to 24: [2, 26, 6, 25, 28, 24]
+Total distance: 1056.42
+Total population sum: 0.30
+
+Shortest path from 2 to 25: [2, 26, 6, 25]
+Total distance: 900.60
+Total population sum: 0.30
+
+Shortest path from 2 to 26: [2, 26]
+Total distance: 201.72
+Total population sum: 0.10
+
+Shortest path from 2 to 27: [2, 26, 6, 25, 27]
+Total distance: 1189.75
+Total population sum: 0.30
+
+Shortest path from 2 to 28: [2, 26, 6, 25, 28]
+Total distance: 989.01
+Total population sum: 0.30
+
+Shortest path from 2 to 29: [2, 26, 6, 25, 28, 29]
+Total distance: 1084.56
+Total population sum: 0.30
+
+Shortest path from 2 to 30: [2, 26, 6, 25, 28, 29, 43, 30]
+Total distance: 1444.80
+Total population sum: 2.30
+
+Shortest path from 2 to 31: [2, 26, 6, 25, 27, 38, 45, 37, 36, 35, 31]
+Total distance: 2230.97
+Total population sum: 2.30
+
+Shortest path from 2 to 32: [2, 26, 6, 25, 28, 29, 42, 40, 32]
+Total distance: 2159.87
+Total population sum: 2.30
+
+Shortest path from 2 to 33: [2, 26, 6, 25, 28, 29, 42, 40, 39, 33]
+Total distance: 1989.42
+Total population sum: 2.30
+
+Shortest path from 2 to 34: [2, 26, 6, 25, 28, 29, 42, 40, 32, 34]
+Total distance: 2315.38
+Total population sum: 3.10
+Shortest path from 2 to 35: [2, 26, 6, 25, 27, 38, 45, 37, 36, 35]
+Total distance: 2088.80
+Total population sum: 1.30
+
+Shortest path from 2 to 36: [2, 26, 6, 25, 27, 38, 45, 37, 36]
+Total distance: 1820.01
+Total population sum: 0.30
+
+Shortest path from 2 to 37: [2, 26, 6, 25, 27, 38, 45, 37]
+Total distance: 1658.68
+Total population sum: 0.30
+
+Shortest path from 2 to 38: [2, 26, 6, 25, 27, 38]
+Total distance: 1379.13
+Total population sum: 0.30
+
+Shortest path from 2 to 39: [2, 26, 6, 25, 28, 29, 42, 40, 39]
+Total distance: 1674.12
+Total population sum: 1.30
+
+Shortest path from 2 to 40: [2, 26, 6, 25, 28, 29, 42, 40]
+Total distance: 1511.86
+Total population sum: 1.30
+
+Shortest path from 2 to 41: [2, 26, 6, 25, 28, 29, 42, 40, 41]
+Total distance: 1663.21
+Total population sum: 1.80
+
+Shortest path from 2 to 42: [2, 26, 6, 25, 28, 29, 42]
+Total distance: 1259.56
+Total population sum: 0.30
+
+Shortest path from 2 to 43: [2, 26, 6, 25, 28, 29, 43]
+Total distance: 1377.23
+Total population sum: 1.30
+
+Shortest path from 2 to 44: [2, 26, 6, 25, 44]
+Total distance: 1208.60
+Total population sum: 0.30
+
+Shortest path from 2 to 45: [2, 26, 6, 25, 27, 38, 45]
+Total distance: 1511.26
+Total population sum: 0.30
+
+> 
